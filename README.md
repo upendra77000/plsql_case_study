@@ -3,6 +3,6 @@
 -- It includes: 
       - creating of an Employee
       - finding the employee Salary
-      - remove an employee
+      - removing an employee
       - salary hiking
       - a log table
