@@ -62,8 +62,6 @@ IS
 END up_emp_package;
 /
 
-drop package emp_package;
-
 -- PACKAGE BODY
 create or replace PACKAGE BODY emp_package
 IS
